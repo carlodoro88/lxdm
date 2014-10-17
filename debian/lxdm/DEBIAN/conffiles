@@ -1,0 +1,12 @@
+/etc/lxdm/lxdm.conf
+/etc/lxdm/PostLogout
+/etc/lxdm/PreLogin
+/etc/lxdm/PreReboot
+/etc/lxdm/Xsession
+/etc/lxdm/PreShutdown
+/etc/lxdm/PostLogin
+/etc/lxdm/LoginReady
+/etc/init.d/lxdm
+/etc/init/lxdm.conf
+/etc/insserv.conf.d/lxdm
+/etc/pam.d/lxdm
