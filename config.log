@@ -138,7 +138,7 @@ configure:4029: $? = 0
 configure:4038: result: yes
 configure:4060: checking for library containing pam_open_session
 configure:4091: gcc -o conftest -g -O2  -Wl,-z,defs -Wl,--as-needed conftest.c -lcrypt  >&5
-/tmp/cclRLGTS.o: In function `main':
+/tmp/ccKnPP8J.o: In function `main':
 /home/carlo/Documenti/paperino2/lxdm-0.5.0/conftest.c:23: undefined reference to `pam_open_session'
 collect2: error: ld returned 1 exit status
 configure:4091: $? = 1
